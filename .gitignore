@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+*.log
+data/
+world/
+world_nether/
+world_the_end/
+backups/
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
